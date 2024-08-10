@@ -87,7 +87,7 @@ public class bankingApplication {
 				deposit(amount);
 				System.out.println();
 		break;
-				case 'c':
+				case 'C':
 					System.out.println("------");
 					System.out.println("enter the amount to withdraw");
 					System.out.println("----");
